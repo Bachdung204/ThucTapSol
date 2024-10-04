@@ -1,0 +1,15 @@
+{
+  "name": "code_nft",
+  "version": "1.0.0",
+  "description": "A NFT test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.38.1",
+    "react-scripts": "^3.4.4"
+  }
+}
